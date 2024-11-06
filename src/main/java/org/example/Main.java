@@ -9,7 +9,10 @@ package org.example;
  */
 
 public class Main {
-    public static String information; /** A string containing information */
+    /**
+     * A string containing information
+     */
+    public static String information;
 
     /**
      * This is the main method of the program. It prints "Hello world!" to the console.
@@ -22,6 +25,3 @@ public class Main {
     }
 }
 
-/**
- *
- */
